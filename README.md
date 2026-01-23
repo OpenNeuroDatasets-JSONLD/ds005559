@@ -1,4 +1,4 @@
-# Item and Spatial Pattern Separation in the Medial Temporal Lobe
+# Item and Spatial Pattern Separation of Non-meaningful Items and Their Spatial Location
 
 **Year of Data Acquisition:** 2021
 
