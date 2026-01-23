@@ -1,4 +1,4 @@
-# Item and Spatial Pattern Separation of Non-meaningful Items and Their Spatial Location
+# Item and Spatial Pattern Separation of Non-meaningful Fractal Images
 
 **Year of Data Acquisition:** 2021
 
